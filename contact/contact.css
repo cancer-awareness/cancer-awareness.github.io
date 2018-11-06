@@ -1,0 +1,26 @@
+
+h1 {
+    font-weight: bold;
+}
+
+.myContainer {
+    margin: 80px 0px;
+}
+
+.myFlexbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 25px;
+}
+
+.myFlexbox a img {
+    height: 200px;
+    width: auto;
+    margin: 20px;
+    transition: transform .2s;
+}
+
+.myFlexbox a img:hover {
+    transform: scale(1.2);
+}
