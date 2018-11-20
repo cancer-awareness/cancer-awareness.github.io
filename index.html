@@ -134,6 +134,9 @@
     <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
 
+    <!-- own css -->
+    <link rel="stylesheet" href="index.css">
+
 </head>
 
 <body class="home page-template page-template-template-home page-template-template-home-php page page-id-20 front-page givingpress-lite-singular home-template givingpress-lite-right-sidebar no-social-menu givingpress-lite-header-active givingpress-lite-title-active givingpress-lite-description-left givingpress-lite-logo-left givingpress-lite-info-active">
@@ -251,54 +254,79 @@
 
         <link rel="stylesheet" type="text/css" href="plugin/any.css">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
-        <div id="demo" class="carousel slide" data-ride="carousel">
 
-            <style>
-                /* Make the image fully responsive */
-            .carousel-inner img {
-                width: 100%;
-                height: 100%;
-            }
-        </style>
-
-            <!-- Indicators -->
-            <ul class="carousel-indicators">
-                <li data-target="#demo" data-slide-to="0" class="active"></li>
-                <li data-target="#demo" data-slide-to="1"></li>
-                <li data-target="#demo" data-slide-to="2"></li>
-            </ul>
-
-            <!-- The slideshow -->
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="./photo/Breast-Cancer-Awarness-Month-at-COR-1030x453.png" alt="facts1" width="1100"
-                        height="500">
-                    <div class="carousel-caption">
-                        <h3>Do You Know?</h3>
-                        <p>Excluding skin cancer, breast cancer is the most commonly diagnosed cancer in women.</p>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="./wp-content/uploads/2018/09/image-services-4.jpg" alt="facts2" width="1100" height="500">
-                </div>
-                <div class="carousel-item">
-                    <img src="./wp-content/uploads/2018/09/image-services-4.jpg" alt="facts3" width="1100" height="500">
-                </div>
-            </div>
-
-            <!-- Left and right controls -->
-            <a class="carousel-control-prev" href="#demo" data-slide="prev">
-                <span class="carousel-control-prev-icon"></span>
-            </a>
-            <a class="carousel-control-next" href="#demo" data-slide="next">
-                <span class="carousel-control-next-icon"></span>
-            </a>
-        </div>
 
         <!-- BEGIN #header -->
         <div id="header">
 
             <!-- END #header -->
+        </div>
+
+        <div class="wrapper">
+            <input checked type=radio name="slider" id="slide1" />
+            <input type=radio name="slider" id="slide2" />
+            <input type=radio name="slider" id="slide3" />
+            <input type=radio name="slider" id="slide4" />
+            <input type=radio name="slider" id="slide5" />
+
+            <div class="slider-wrapper">
+                <div class=inner>
+                    <article>
+                        <div class="info top-left">
+                            <h3>Malacca</h3>
+                        </div>
+                        <img src="https://farm9.staticflickr.com/8059/28286750501_dcc27b1332_h_d.jpg" />
+                    </article>
+
+                    <article>
+                        <div class="info bottom-right">
+                            <h3>Cameron Highland</h3>
+                        </div>
+                        <img src="https://farm6.staticflickr.com/5812/23394215774_b76cd33a87_h_d.jpg" />
+                    </article>
+
+                    <article>
+                        <div class="info bottom-left">
+                            <h3>New Delhi</h3>
+                        </div>
+                        <img src="https://farm8.staticflickr.com/7455/27879053992_ef3f41c4a0_h_d.jpg" />
+                    </article>
+
+                    <article>
+                        <div class="info top-right">
+                            <h3>Ladakh</h3>
+                        </div>
+                        <img src="https://farm8.staticflickr.com/7367/27980898905_72d106e501_h_d.jpg" />
+                    </article>
+
+                    <article>
+                        <div class="info bottom-left">
+                            <h3>Nubra Valley</h3>
+                        </div>
+                        <img src="https://farm8.staticflickr.com/7356/27980899895_9b6c394fec_h_d.jpg" />
+                    </article>
+                </div>
+                <!-- .inner -->
+            </div>
+            <!-- .slider-wrapper -->
+
+            <div class="slider-prev-next-control">
+                <label for=slide1></label>
+                <label for=slide2></label>
+                <label for=slide3></label>
+                <label for=slide4></label>
+                <label for=slide5></label>
+            </div>
+            <!-- .slider-prev-next-control -->
+
+            <div class="slider-dot-control">
+                <label for=slide1></label>
+                <label for=slide2></label>
+                <label for=slide3></label>
+                <label for=slide4></label>
+                <label for=slide5></label>
+            </div>
+            <!-- .slider-dot-control -->
         </div>
 
         <section>
@@ -574,8 +602,8 @@
                         <h2 class="headline text-center">Our Mission</h2>
 
 
-                        <p><b>We</b> plan to blah blah blah</p>
-
+                        <p>To spread awareness on the importance of early detection on cancer among students in
+                            University of Malaya.</p>
 
                         <!-- END .postarea -->
                     </div>
