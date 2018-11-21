@@ -439,3 +439,7 @@ article img {
 #home3 {
     background-image: url("photo/home3.jpg");
 }
+
+.card1__button {
+    text-decoration: none !important;
+}
