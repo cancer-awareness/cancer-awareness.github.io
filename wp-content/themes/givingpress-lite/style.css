@@ -327,7 +327,7 @@ table {
 a img {
     border: none;
 }
-
+/* 
 a, a:link, a:visited {
     color: #669900;
     text-decoration: none;
@@ -337,7 +337,7 @@ a, a:link, a:visited {
 a:focus, a:hover, a:active {
     color: #336600;
     text-decoration: underline;
-}
+} */
 
 /************************************************
 *	2.	Headings
