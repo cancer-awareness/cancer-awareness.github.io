@@ -421,3 +421,15 @@ article img {
 .row {
     justify-content: center;
 }
+
+#home1 {
+    background-image: url("photo/home1.jpg");
+}
+
+#home2 {
+    background-image: url("photo/home2.jpg");
+}
+
+#home3 {
+    background-image: url("photo/home3.jpg");
+}
