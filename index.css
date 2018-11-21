@@ -87,16 +87,24 @@ article img {
 }
 
 /* Info Box */
+.blur {
+    height: 100%;
+    width: 100%;
+    background: red
+}
+
 .info {
+    padding: 1.5vw;
     position: absolute;
     font-style: italic;
     line-height: 20px;
     opacity: 0;
-    color: #000;
+    color: #fcfff4;
     text-align: left;
     -webkit-transition: all 1000ms ease-out 600ms;
     -moz-transition: all 1000ms ease-out 600ms;
     transition: all 1000ms ease-out 600ms;
+    background-color: rgba(0,0,0,0.22);
 }
 
 .info h3 {
@@ -108,8 +116,8 @@ article img {
 }
 
 .info.top-left {
-    top: 30px;
-    left: 30px;
+    /* top: 30px;
+    left: 30px; */
 }
 
 .info.top-right {
