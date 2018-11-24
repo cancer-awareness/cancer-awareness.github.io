@@ -2,7 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb5708f6-3581-4c71-82f6-065748b9b221" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/09/18/hello-world/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2018/09/18/hello-world/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/09/19/welcome-to-the-gutenberg-editor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2018/09/19/welcome-to-the-gutenberg-editor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/09/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2018/09/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutCancer/aboutCancer1.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutCancer/aboutCancer1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutCancer/aboutCancer2.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutCancer/aboutCancer2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutUs/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutUs/aboutUs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/dylansalim3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/author/dylansalim3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/uncategorized/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/uncategorized/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forum/btn.css" beforeDir="false" afterPath="$PROJECT_DIR$/forum/btn.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forum/forum-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forum/forum-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/any.css" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/any.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/font-awesome/less/bordered-pulled.less" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/font-awesome/less/list.less" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/font-awesome/less/list.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/slick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slick-1.8.1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/slick-1.8.1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slick-1.8.1/slick/slick-theme.less" beforeDir="false" afterPath="$PROJECT_DIR$/slick-1.8.1/slick/slick-theme.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slick-1.8.1/slick/slick-theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/slick-1.8.1/slick/slick-theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slick-1.8.1/slick/slick.js" beforeDir="false" afterPath="$PROJECT_DIR$/slick-1.8.1/slick/slick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slick-1.8.1/slick/slick.less" beforeDir="false" afterPath="$PROJECT_DIR$/slick-1.8.1/slick/slick.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slick-1.8.1/slick/slick.scss" beforeDir="false" afterPath="$PROJECT_DIR$/slick-1.8.1/slick/slick.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/js/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/js/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/js/fontawesome.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/js/fontawesome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_bordered-pulled.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_bordered-pulled.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_bordered-pulled.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/givingpress-lite/js/superfish.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/givingpress-lite/js/superfish.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/givingpress-lite/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/givingpress-lite/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,14 +55,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-5.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="121" column="39" selection-start-line="121" selection-start-column="39" selection-end-line="121" selection-end-column="39" />
+            <state relative-caret-position="3792">
+              <caret line="154" selection-start-line="154" selection-end-line="154" />
               <folding>
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -30,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="121" column="39" selection-start-line="121" selection-start-column="39" selection-end-line="121" selection-end-column="39" />
+            <state relative-caret-position="3993">
+              <caret line="121" column="22" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -42,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-7.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="121" column="39" selection-start-line="121" selection-start-column="39" selection-end-line="121" selection-end-column="39" />
+            <state relative-caret-position="3993">
+              <caret line="121" column="22" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -54,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-8.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="121" column="39" selection-start-line="121" selection-start-column="39" selection-end-line="121" selection-end-column="39" />
+            <state relative-caret-position="3993">
+              <caret line="121" column="22" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -66,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-9.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="121" column="39" selection-start-line="121" selection-start-column="39" selection-end-line="121" selection-end-column="39" />
+            <state relative-caret-position="3993">
+              <caret line="121" column="22" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -78,8 +119,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="119" column="50" selection-start-line="119" selection-start-column="50" selection-end-line="119" selection-end-column="50" />
+            <state relative-caret-position="3927">
+              <caret line="119" column="33" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -92,8 +133,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="528">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -102,11 +143,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forum/forum-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="288" column="144" selection-start-line="288" selection-start-column="144" selection-end-line="288" selection-end-column="144" />
+            <state relative-caret-position="3099">
+              <caret line="95" column="37" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -117,8 +158,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forum/forum-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3969">
-              <caret line="147" column="48" selection-start-line="147" selection-start-column="48" selection-end-line="147" selection-end-column="48" />
+            <state relative-caret-position="4824">
+              <caret line="156" column="48" selection-start-line="156" selection-start-column="48" selection-end-line="156" selection-end-column="48" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -143,6 +184,7 @@
       <find>btn.css</find>
       <find>sticky.css</find>
       <find>footer</find>
+      <find>post</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -154,7 +196,6 @@
         <option value="$PROJECT_DIR$/sticky.js" />
         <option value="$PROJECT_DIR$/aboutUs/aboutUs.css" />
         <option value="$PROJECT_DIR$/aboutUs/icon.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/social.css" />
         <option value="$PROJECT_DIR$/index.css" />
         <option value="$PROJECT_DIR$/aboutCancer/aboutCancer1.html" />
@@ -173,6 +214,7 @@
         <option value="$PROJECT_DIR$/forum/forum-page/forumpage-1.html" />
         <option value="$PROJECT_DIR$/forum/forum-2.html" />
         <option value="$PROJECT_DIR$/forum/forum-1.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -187,6 +229,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,11 +273,15 @@
               <item name="forum" type="462c0819:PsiDirectoryNode" />
               <item name="forum-page" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cancer-awareness.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cancer-awareness.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -247,7 +294,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -288,7 +335,9 @@
       <workItem from="1541614029525" duration="805000" />
       <workItem from="1541764780115" duration="1147000" />
       <workItem from="1542801505418" duration="2056000" />
-      <workItem from="1543048159051" duration="3133000" />
+      <workItem from="1543048159051" duration="4591000" />
+      <workItem from="1543053153433" duration="103000" />
+      <workItem from="1543053277830" duration="293000" />
     </task>
     <task id="LOCAL-00001" summary="flexbox">
       <created>1541612203556</created>
@@ -301,7 +350,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13338000" />
+    <option name="totallyTimeSpent" value="15192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="864" extended-state="6" />
@@ -324,7 +373,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32885906" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32947233" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -403,16 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="147" column="45" lean-forward="true" selection-start-line="147" selection-start-column="45" selection-end-line="149" selection-end-column="45" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aboutCancer/aboutCancer1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -487,10 +526,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/forum/forum-page/sticky.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3792">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="121" column="39" selection-start-line="121" selection-start-column="39" selection-end-line="121" selection-end-column="39" />
+        <state relative-caret-position="3993">
+          <caret line="121" column="22" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
           <folding>
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
           </folding>
@@ -499,8 +549,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-7.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="121" column="39" selection-start-line="121" selection-start-column="39" selection-end-line="121" selection-end-column="39" />
+        <state relative-caret-position="3993">
+          <caret line="121" column="22" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
           <folding>
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
           </folding>
@@ -509,8 +559,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="121" column="39" selection-start-line="121" selection-start-column="39" selection-end-line="121" selection-end-column="39" />
+        <state relative-caret-position="3993">
+          <caret line="121" column="22" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
           <folding>
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
           </folding>
@@ -519,21 +569,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-9.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="121" column="39" selection-start-line="121" selection-start-column="39" selection-end-line="121" selection-end-column="39" />
+        <state relative-caret-position="3993">
+          <caret line="121" column="22" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
           <folding>
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forum/forum-page/sticky.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-10.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="119" column="50" selection-start-line="119" selection-start-column="50" selection-end-line="119" selection-end-column="50" />
+        <state relative-caret-position="3927">
+          <caret line="119" column="33" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -542,8 +589,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="528">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -551,20 +598,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forum/forum-2.html">
+    <entry file="file://$PROJECT_DIR$/forum/forum-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3969">
-          <caret line="147" column="48" selection-start-line="147" selection-start-column="48" selection-end-line="147" selection-end-column="48" />
+        <state relative-caret-position="3099">
+          <caret line="95" column="37" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
           <folding>
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forum/forum-1.html">
+    <entry file="file://$PROJECT_DIR$/forum/forum-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="288" column="144" selection-start-line="288" selection-start-column="144" selection-end-line="288" selection-end-column="144" />
+        <state relative-caret-position="4824">
+          <caret line="156" column="48" selection-start-line="156" selection-start-column="48" selection-end-line="156" selection-end-column="48" />
           <folding>
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
           </folding>

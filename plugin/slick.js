@@ -202,7 +202,7 @@
 
         var _ = this;
 
-        if (typeof(index) === 'boolean') {
+        if (typeof (index) === 'boolean') {
             addBefore = index;
             index = null;
         } else if (index < 0 || (index >= _.slideCount)) {
@@ -211,7 +211,7 @@
 
         _.unload();
 
-        if (typeof(index) === 'number') {
+        if (typeof (index) === 'number') {
             if (index === 0 && _.$slides.length === 0) {
                 $(markup).appendTo(_.$slideTrack);
             } else if (addBefore) {
@@ -414,9 +414,7 @@
 
                 if (_.direction === 1 && (_.currentSlide + 1) === (_.slideCount - 1)) {
                     _.direction = 0;
-                }
-
-                else if (_.direction === 0) {
+                } else if (_.direction === 0) {
 
                     slideTo = _.currentSlide - _.options.slidesToScroll;
 
@@ -1947,7 +1945,7 @@
 
         var _ = this;
 
-        if (typeof(index) === 'boolean') {
+        if (typeof (index) === 'boolean') {
             removeBefore = index;
             index = removeBefore === true ? 0 : _.slideCount - 1;
         } else {

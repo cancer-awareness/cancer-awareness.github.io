@@ -327,7 +327,8 @@ table {
 a img {
     border: none;
 }
-/* 
+
+/*
 a, a:link, a:visited {
     color: #669900;
     text-decoration: none;
@@ -551,7 +552,7 @@ h1 a:active, h2 a:active, h3 a:active, h4 a:active, h5 a:active, h6 a:active {
 }
 
 #top-nav {
-    position: relative; 
+    position: relative;
     padding: 12px 0px;
     z-index: 9;
 }

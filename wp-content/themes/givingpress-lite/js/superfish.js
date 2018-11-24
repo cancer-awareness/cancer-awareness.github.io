@@ -64,8 +64,7 @@
                 var targets = 'li:has(' + o.popUpSelector + ')';
                 if ($.fn.hoverIntent && !o.disableHI) {
                     $menu.hoverIntent(over, out, targets);
-                }
-                else {
+                } else {
                     $menu
                         .on('mouseenter.superfish', targets, over)
                         .on('mouseleave.superfish', targets, out);
@@ -114,8 +113,7 @@
                     o = getOptions($this);
                 if (ios) {
                     $.proxy(close, $this, o)();
-                }
-                else {
+                } else {
                     clearTimeout(o.sfTimer);
                     o.sfTimer = setTimeout($.proxy(close, $this, o), o.delay);
                 }
@@ -239,11 +237,9 @@
     $.fn.superfish = function (method, args) {
         if (methods[method]) {
             return methods[method].apply(this, Array.prototype.slice.call(arguments, 1));
-        }
-        else if (typeof method === 'object' || !method) {
+        } else if (typeof method === 'object' || !method) {
             return methods.init.apply(this, arguments);
-        }
-        else {
+        } else {
             return $.error('Method ' + method + ' does not exist on jQuery.fn.superfish');
         }
     };

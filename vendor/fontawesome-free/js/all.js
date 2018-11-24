@@ -2436,8 +2436,7 @@
         if (initialValue === undefined) {
             i = 1;
             result = subject[keys[0]];
-        }
-        else {
+        } else {
             i = 0;
             result = initialValue;
         }
