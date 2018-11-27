@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800");
 
 h1 {
     font-weight: bold;
@@ -7,20 +8,13 @@ h1 {
     margin: 80px 0px;
 }
 
-.myFlexbox {
+.myInfo-wrapper {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    margin: 25px;
 }
 
-.myFlexbox a img {
-    height: 200px;
-    width: auto;
-    margin: 20px;
-    transition: transform .2s;
+.myInfo-wrapper img {
+    max
+    height: auto;
 }
 
-.myFlexbox a img:hover {
-    transform: scale(1.2);
-}
