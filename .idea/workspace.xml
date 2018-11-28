@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb5708f6-3581-4c71-82f6-065748b9b221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/contact/Capture.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/Capture1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/Capture2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/Capture3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/Capture4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/myInfo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2018/09/18/hello-world/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2018/09/18/hello-world/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2018/09/19/welcome-to-the-gutenberg-editor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2018/09/19/welcome-to-the-gutenberg-editor/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2018/09/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2018/09/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutCancer/aboutCancer1.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutCancer/aboutCancer1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutCancer/aboutCancer2.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutCancer/aboutCancer2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutUs/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutUs/aboutUs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author/dylansalim3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/author/dylansalim3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/uncategorized/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/uncategorized/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/5.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contact/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/contact/contact.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact/contact.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="453">
@@ -63,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact/contact.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="479">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -120,8 +85,8 @@
         <option value="$PROJECT_DIR$/forum/forum-1.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/contact/myInfo.css" />
-        <option value="$PROJECT_DIR$/contact/contact.css" />
         <option value="$PROJECT_DIR$/contact/contact.html" />
+        <option value="$PROJECT_DIR$/contact/contact.css" />
       </list>
     </option>
   </component>
@@ -246,7 +211,7 @@
       <workItem from="1543048159051" duration="4591000" />
       <workItem from="1543053153433" duration="103000" />
       <workItem from="1543053277830" duration="8894000" />
-      <workItem from="1543310153425" duration="13550000" />
+      <workItem from="1543310153425" duration="13624000" />
     </task>
     <task id="LOCAL-00001" summary="flexbox">
       <created>1541612203556</created>
@@ -259,7 +224,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37343000" />
+    <option name="totallyTimeSpent" value="37417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="864" extended-state="6" />
@@ -527,13 +492,6 @@
     <entry file="file://$PROJECT_DIR$/contact/myInfo.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact/contact.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
@@ -542,6 +500,13 @@
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact/contact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
