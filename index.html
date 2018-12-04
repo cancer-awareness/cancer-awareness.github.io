@@ -48,8 +48,8 @@
                             55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128,
                             56423, 56128, 56447
                         ], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203,
-                            56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447
-                        ]), !b);
+                                56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447
+                            ]), !b);
                     case "emoji":
                         return b = d([55358, 56760, 9792, 65039], [55358, 56760, 8203, 9792, 65039]), !b
                 }
@@ -64,9 +64,9 @@
             var g, h, i, j, k = b.createElement("canvas"),
                 l = k.getContext && k.getContext("2d");
             for (j = Array("flag", "emoji"), c.supports = {
-                    everything: !0,
-                    everythingExceptFlag: !0
-                }, i = 0; i < j.length; i++) c.supports[j[i]] = e(j[i]), c.supports.everything = c.supports.everything &&
+                everything: !0,
+                everythingExceptFlag: !0
+            }, i = 0; i < j.length; i++) c.supports[j[i]] = e(j[i]), c.supports.everything = c.supports.everything &&
                 c.supports[j[i]], "flag" !== j[i] && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag &&
                     c.supports[j[i]]);
             c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && !c.supports.flag, c.DOMReady = !1, c.readyCallback =
@@ -76,9 +76,9 @@
                     c.readyCallback()
                 }, b.addEventListener ? (b.addEventListener("DOMContentLoaded", h, !1), a.addEventListener("load",
                     h, !1)) : (a.attachEvent("onload", h), b.attachEvent("onreadystatechange", function () {
-                    "complete" === b.readyState && c.readyCallback()
-                })), g = c.source || {}, g.concatemoji ? f(g.concatemoji) : g.wpemoji && g.twemoji && (f(g.twemoji),
-                    f(g.wpemoji)))
+                        "complete" === b.readyState && c.readyCallback()
+                    })), g = c.source || {}, g.concatemoji ? f(g.concatemoji) : g.wpemoji && g.twemoji && (f(g.twemoji),
+                        f(g.wpemoji)))
         }(window, document, window._wpemojiSettings);
     </script>
     <style type="text/css">
@@ -151,7 +151,7 @@
 
             <!-- BEGIN .row -->
             <div class="row">
-                
+
                 <!-- BEGIN .content -->
                 <div class="content">
 
@@ -612,7 +612,51 @@
                         <a class="pinterestBtn smGlobalBtn" href="#"></a>
                         <a class="tumblrBtn smGlobalBtn" href="#"></a>
                         <a class="rssBtn smGlobalBtn" href="#"></a>
+                        <style>
+                            .rate {
+                                border: none;
+                                background-color: inherit;
+                                padding: 14px 28px;
+                                font-size: 16px;
+                                cursor: pointer;
+                                /* display: inline-block; */
+                                color: black;
+                                text-align: center;
+                            }
+                        
+                            .rate:hover {
+                                background-color: #2F4858;
+                                color: white;
+                            }
+
+                            .kosong {
+                                border: none;
+                                background: transparent;
+                                color: transparent;
+                            }
+                            .kosong:hover {
+                                border: none;
+                                background: transparent;
+                                color: transparent;
+                                box-shadow: none;
+                            }
+                        </style>
+                        <h5>
+                            <button class="kosong">
+                                Rate Us
+                            </button>
+                            <button class="kosong">
+                                Rate Us
+                            </button>
+                            <button class="rate">
+                                Rate Us
+                            </button>
+                        </h5>
                     </div>
+
+
+
+
                     <!-- END .footer-widgets -->
                 </div>
 
