@@ -623,12 +623,21 @@
                                 color: black;
                                 text-align: center;
                             }
-                        
                             .rate:hover {
                                 background-color: #2F4858;
                                 color: white;
                             }
-
+                            .rate:focus {
+                                border: none;
+                                background-color: inherit;
+                                padding: 14px 28px;
+                                font-size: 16px;
+                                cursor: pointer;
+                                /* display: inline-block; */
+                                color: black;
+                                text-align: center;
+                                box-shadow: none;
+                            }
                             .kosong {
                                 border: none;
                                 background: transparent;
@@ -648,9 +657,9 @@
                             <button class="kosong">
                                 Rate Us
                             </button>
-                            <button class="rate">
-                                Rate Us
-                            </button>
+                            <a href="https://goo.gl/forms/Ihlx9EEykMPR4Nt32" target="_blank">
+                                <button class="rate">Rate Us</button>
+                            </a>
                         </h5>
                     </div>
 
