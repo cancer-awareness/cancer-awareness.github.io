@@ -48,6 +48,21 @@
     background: #fff;
 }
 
+/* facebook button class*/
+.instaBtn {
+    background: #ff0084;
+}
+
+.instaBtn:before { /* use :before to add the relevant icons */
+    font-family: "FontAwesome";
+    content: "\f16d"; /* add facebook icon */
+}
+
+.instaBtn:hover {
+    color: #ff0084;
+    background: #fff;
+}
+
 /* twitter button class*/
 .twitterBtn {
     background: #00ABE3;
