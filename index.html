@@ -151,6 +151,8 @@
     <link href="sticky.css" rel="stylesheet">
     <!--social css-->
     <link href="social.css" rel="stylesheet">
+    <!--slide css-->
+    <link rel="stylesheet" href="slide.css">
 
 </head>
 
@@ -274,189 +276,158 @@
 
         <!-- slideshow -->
         <div class="wrapper">
-            <input checked id="slide1" name="slider" type=radio/>
-            <input id="slide2" name="slider" type=radio/>
-            <input id="slide3" name="slider" type=radio/>
-            <input id="slide4" name="slider" type=radio/>
-            <input id="slide5" name="slider" type=radio/>
-
-            <div class="slider-wrapper">
-                <div class=inner>
-                    <article>
-                        <img src="video/v1.gif"/>
-                    </article>
-
-                    <article>
-                        <div class="info top-left">
-                            <h3>Cameron Highland</h3>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                Ipsum
-                                has been the industry's standard dummy text ever since the 1500s, when an unknown
-                                printer took a galley of type and scrambled it to make a type specimen book. It has
-                                survived not only five centuries, but also the leap into electronic typesetting,
-                            </p>
-                        </div>
-                        <img src="photo/banner1.jpg"/>
-                    </article>
-
-                    <article>
-                        <div class="info top-left">
-                            <h3>New Delhi</h3>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                Ipsum
-                                has been the industry's standard dummy text ever since the 1500s, when an unknown
-                                printer took a galley of type and scrambled it to make a type specimen book. It has
-                                survived not only five centuries, but also the leap into electronic typesetting,
-                            </p>
-                        </div>
-                        <img src="photo/banner2.jpg"/>
-                    </article>
-
-                    <article>
-                        <div class="info top-left">
-                            <h3>Ladakh</h3>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                Ipsum
-                                has been the industry's standard dummy text ever since the 1500s, when an unknown
-                                printer took a galley of type and scrambled it to make a type specimen book. It has
-                                survived not only five centuries, but also the leap into electronic typesetting,
-                            </p>
-                        </div>
-                        <img src="photo/banner3.jpg"/>
-                    </article>
-
-                    <article>
-                        <div class="info top-left ">
-                            <h3>Nubra Valley</h3>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                Ipsum
-                                has been the industry's standard dummy text ever since the 1500s, when an unknown
-                                printer took a galley of type and scrambled it to make a type specimen book. It has
-                                survived not only five centuries, but also the leap into electronic typesetting,
-                            </p>
-                        </div>
-                        <img src="photo/banner4.jpg"/>
-                    </article>
-                </div>
-                <!-- .inner -->
-            </div>
-            <!-- .slider-wrapper -->
-
-            <div class="slider-prev-next-control">
-                <label for=slide1></label>
-                <label for=slide2></label>
-                <label for=slide3></label>
-                <label for=slide4></label>
-                <label for=slide5></label>
-            </div>
-            <!-- .slider-prev-next-control -->
-
-            <div class="slider-dot-control">
-                <label for=slide1></label>
-                <label for=slide2></label>
-                <label for=slide3></label>
-                <label for=slide4></label>
-                <label for=slide5></label>
-            </div>
-            <!-- .slider-dot-control -->
+            <div class="bss-slides demo1" tabindex="1" autofocus="autofocus">
+                <figure>
+                    <img src="./video/v1.gif" width="100%"/>
+                    <figcaption>"Medium" by <a href="https://www.flickr.com/photos/thomashawk/14586158819/">Thomas
+                        Hawk</a>.
+                    </figcaption>
+                </figure>
+                <figure>
+                    <img src="./photo/banner1.jpg" width="100%"/>
+                    <figcaption>"Colorado" by <a href="https://www.flickr.com/photos/stuckincustoms/88370744">Trey
+                        Ratcliff</a>.
+                    </figcaption>
+                </figure>
+                <figure>
+                    <img src="./photo/banner2.jpg" width="100%"/>
+                    <figcaption>"Early Morning at the Monte Vista Wildlife Refuge, Colorado" by <a
+                            href="https://www.flickr.com/photos/davesoldano/8572429635">Dave Soldano</a>.
+                    </figcaption>
+                </figure>
+                <figure>
+                    <img src="./photo/banner3.jpg" width="100%"/>
+                    <figcaption>"Sunrise in Eastern Colorado" by <a
+                            href="https://www.flickr.com/photos/35528040@N04/6673031153">Pam Morris</a>.
+                    </figcaption>
+                </figure>
+                <figure>
+                    <img src="./photo/Breast-Cancer-Awarness-Month-at-COR-1030x453.png" width="100%"/>
+                    <figcaption>"colorado colors" by <a href="https://www.flickr.com/photos/cptspock/2857543585">Jasen
+                        Miller</a>.
+                    </figcaption>
+                </figure>
+            </div> <!-- // bss-slides -->
+            <script src="https://leemark.github.io/better-simple-slideshow/demo/js/hammer.min.js"></script>
+            <!-- for swipe support on touch interfaces -->
         </div>
-        <!-- end slideshow -->
+        <!-- .slider-wrapper -->
 
-        <!-- blue container -->
-        <div>
-            <section>
-                <div class="container-blue">
-                    </br>
-                    <h1 class="content-section-heading text-center"> Why you need to pay more attention on
-                        cancer?</h1>
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 order-lg-2">
-                            <div class="p-5">
-                                <img alt="" class="img-fluid rounded-circle" src="image/01.jpg">
-                            </div>
-                        </div>
-                        <div class="col-lg-6 order-lg-1">
-                            <div class="p-5">
-                                <h2 class="display-4">Young age doesn't mean you are immune to cancer</h2>
-                                <p>About 9,000 young adults die from cancer each year. Cancer is the 4th
-                                    leading
-                                    cause
-                                    of
-                                    death
-                                    in this age group, behind only accidents, suicide, and homicide. It’s the
-                                    leading
-                                    cause
-                                    of
-                                    death from disease among females among young adults, and is second only to
-                                    heart
-                                    disease
-                                    among males..</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section>
-                <div class="container-blue">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6">
-                            <div class="p-5">
-                                <img alt="" class="img-fluid rounded-circle" src="image/02.jpg">
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="p-5">
-                                <h2 class="display-4">Cancer still can kill you even you live on a healthy
-                                    lifestyle</h2>
-                                <p>If cancer is common in your family, it's possible that mutations are being
-                                    passed
-                                    from
-                                    one
-                                    generation to the next. You might be a candidate for genetic testing to see
-                                    whether
-                                    you
-                                    have
-                                    inherited mutations that might increase your risk of certain cancers. </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section>
-                <div class="container-blue">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 order-lg-2">
-                            <div class="p-5">
-                                <img alt="" class="img-fluid rounded-circle" src="image/03.jpg">
-                            </div>
-                        </div>
-                        <div class="col-lg-6 order-lg-1">
-                            <div class="p-5">
-                                <h2 class="display-4">Some cancer are hard to detect.</h2>
-                                <p>Some cancer can show no signs or symptoms at early stage, such as lung
-                                    cancer,colon
-                                    cancer
-                                    and pancreatic cancer.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+        <div class="slider-prev-next-control">
+            <label for=slide1></label>
+            <label for=slide2></label>
+            <label for=slide3></label>
+            <label for=slide4></label>
+            <label for=slide5></label>
         </div>
-        <!-- end blue container -->
+        <!-- .slider-prev-next-control -->
 
-        <!-- four box -->
-        <section class="content-section" id="portfolio" style="padding-top:80px">
-            <div class=" container">
-                <div class="content-section-heading text-center">
-                    <h3 class="text-secondary mb-0">How You Can Help?</h3>
-                    <h2 class="mb-5">Take your action now !</h2>
+        <div class="slider-dot-control">
+            <label for=slide1></label>
+            <label for=slide2></label>
+            <label for=slide3></label>
+            <label for=slide4></label>
+            <label for=slide5></label>
+        </div>
+        <!-- .slider-dot-control -->
+    </div>
+    <!-- end slideshow -->
+
+    <!-- blue container -->
+    <div>
+        <section>
+            <div class="container-blue">
+                </br>
+                <h1 class="content-section-heading text-center"> Why you need to pay more attention on
+                    cancer?</h1>
+                <div class="row align-items-center">
+                    <div class="col-lg-6 order-lg-2">
+                        <div class="p-5">
+                            <img alt="" class="img-fluid rounded-circle" src="image/01.jpg">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 order-lg-1">
+                        <div class="p-5">
+                            <h2 class="display-4">Young age doesn't mean you are immune to cancer</h2>
+                            <p>About 9,000 young adults die from cancer each year. Cancer is the 4th
+                                leading
+                                cause
+                                of
+                                death
+                                in this age group, behind only accidents, suicide, and homicide. It’s the
+                                leading
+                                cause
+                                of
+                                death from disease among females among young adults, and is second only to
+                                heart
+                                disease
+                                among males..</p>
+                        </div>
+                    </div>
                 </div>
-                <div class="row no-gutters fourbox">
+            </div>
+        </section>
+
+        <section>
+            <div class="container-blue">
+                <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <a class="portfolio-item" href="#">
+                        <div class="p-5">
+                            <img alt="" class="img-fluid rounded-circle" src="image/02.jpg">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="p-5">
+                            <h2 class="display-4">Cancer still can kill you even you live on a healthy
+                                lifestyle</h2>
+                            <p>If cancer is common in your family, it's possible that mutations are being
+                                passed
+                                from
+                                one
+                                generation to the next. You might be a candidate for genetic testing to see
+                                whether
+                                you
+                                have
+                                inherited mutations that might increase your risk of certain cancers. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container-blue">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 order-lg-2">
+                        <div class="p-5">
+                            <img alt="" class="img-fluid rounded-circle" src="image/03.jpg">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 order-lg-1">
+                        <div class="p-5">
+                            <h2 class="display-4">Some cancer are hard to detect.</h2>
+                            <p>Some cancer can show no signs or symptoms at early stage, such as lung
+                                cancer,colon
+                                cancer
+                                and pancreatic cancer.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <!-- end blue container -->
+
+    <!-- four box -->
+    <section class="content-section" id="portfolio" style="padding-top:80px">
+        <div class=" container">
+            <div class="content-section-heading text-center">
+                <h3 class="text-secondary mb-0">How You Can Help?</h3>
+                <h2 class="mb-5">Take your action now !</h2>
+            </div>
+            <div class="row no-gutters fourbox">
+                <div class="col-lg-6">
+                    <a class="portfolio-item" href="#">
                             <span class="caption">
                                 <span class="caption-content">
                                     <h2>Help Yourself</h2>
@@ -464,33 +435,33 @@
                                         hospital now!</p>
                                 </span>
                             </span>
-                            <img alt="" class="img-fluid" src="image/portfolio-1.jpg">
-                        </a>
-                    </div>
-                    <div class="col-lg-6">
-                        <a class="portfolio-item" href="#">
+                        <img alt="" class="img-fluid" src="image/portfolio-1.jpg">
+                    </a>
+                </div>
+                <div class="col-lg-6">
+                    <a class="portfolio-item" href="#">
                             <span class="caption">
                                 <span class="caption-content">
                                     <h2>Help Others</h2>
                                     <p class="mb-0">You can help others by sharing this website to raise awareness</p>
                                 </span>
                             </span>
-                            <img alt="" class="img-fluid" src="image/portfolio-2.jpg">
-                        </a>
-                    </div>
-                    <div class="col-lg-6">
-                        <a class="portfolio-item" href="#">
+                        <img alt="" class="img-fluid" src="image/portfolio-2.jpg">
+                    </a>
+                </div>
+                <div class="col-lg-6">
+                    <a class="portfolio-item" href="#">
                             <span class="caption">
                                 <span class="caption-content">
                                     <h2>Help Us</h2>
                                     <p class="mb-0">You can help us by liking our social media page. </p>
                                 </span>
                             </span>
-                            <img alt="" class="img-fluid" src="image/portfolio-3.jpg">
-                        </a>
-                    </div>
-                    <div class="col-lg-6">
-                        <a class="portfolio-item" href="#">
+                        <img alt="" class="img-fluid" src="image/portfolio-3.jpg">
+                    </a>
+                </div>
+                <div class="col-lg-6">
+                    <a class="portfolio-item" href="#">
                             <span class="caption">
                                 <span class="caption-content">
                                     <h2>Help those affected</h2>
@@ -499,221 +470,221 @@
                                         means a lots</p>
                                 </span>
                             </span>
-                            <img alt="" class="img-fluid" src="image/portfolio-4.jpg">
+                        <img alt="" class="img-fluid" src="image/portfolio-4.jpg">
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <!-- end four box -->
+
+    <!-- youtube -->
+    <div class="youtube-wrapper">
+        <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+                class="youtube" frameborder="0" src="https://www.youtube.com/embed/A764IXV8C_E"></iframe>
+    </div>
+    <!-- end youtube -->
+    <!-- youtube -->
+    <div class="youtube-wrapper">
+        <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+                class="youtube" frameborder="0" src="https://www.youtube.com/embed/KKaJhQBusH8"></iframe>
+    </div>
+    <!-- end youtube -->
+
+    <!-- threebox -->
+    <div class="card1-wrapper">
+        <div class="card1 card1--big">
+            <div class="card1__image" id="home1"></div>
+            <h2 class="card1__title">About Cancer</h2><span class="card1__subtitle">By Mattia Astorino</span>
+            <p class="card1__text">Know more about cancer and how to deal with it</p>
+            <div class="card1__action-bar">
+                <a class="card1__button" href="aboutCancer/aboutCancer1.html" style="margin:0">LEARN MORE</a>
+            </div>
+        </div>
+
+        <div class="card1 card1--big">
+            <div class="card1__image" id="home2"></div>
+            <h2 class="card1__title">About Us</h2><span class="card1__subtitle">By Mattia Astorino</span>
+            <p class="card1__text">Get to know our team members</p>
+            <div class="card1__action-bar">
+                <a class="card1__button" href="aboutUs/aboutUs.html" style="margin:0">LEARN MORE</a>
+            </div>
+        </div>
+
+        <div class="card1 card1--big">
+            <div class="card1__image" id="home3"></div>
+            <h2 class="card1__title">Contact</h2><span class="card1__subtitle">By Mattia Astorino</span>
+            <p class="card1__text">Find contacts for various local or international organzations and counsellor</p>
+            <div class="card1__action-bar">
+                <a class="card1__button" href="contact/contact.html" style="margin:0">LEARN MORE</a>
+            </div>
+        </div>
+    </div>
+    <!-- threebox -->
+
+    <!-- END .container -->
+</div>
+
+<!-- BEGIN .footer -->
+<style>.btnxx {
+    background-color: #17ed0b;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-weight: 700;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 12px;
+    /*font-family: "Arial";*/
+}
+
+
+/* Darker background on mouse-over */
+.btn:hover {
+    background-color: RoyalBlue;
+}</style>
+<div class="footer">
+
+    <!-- BEGIN .content -->
+    <div class="content no-bg">
+
+
+        <!-- BEGIN .row -->
+        <div class="row">
+
+            <!-- BEGIN .footer-widgets -->
+            <div class="footer-widgets widget-count-3 per-row-3">
+
+                <div class="widget widget_text" id="text-3">
+                    <div class="footer-widget">
+                        <h6 class="widget-title">Find Us</h6>
+                        <div class="textwidget">
+                            <p><strong>Address</strong><br/>
+                                Faculty of Computer Science and Information Technology<br/>
+                                University of Malaya, 50603 Kuala Lumpur,</br> Federal Territory of Kuala Lumpur</p>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="widget widget_text" id="text-5">
+                    <div class="footer-widget">
+                        <h6 class="widget-title">About</h6>
+                        <div class="textwidget">
+                            <p>We are students from FSKTM dedicated to spread cancer awareness among communities
+                                among University of Malaya.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!--social widget -->
+                <div class="widget widget_text">
+                    <div id="social">
+                        <h5 class="widget-title" style="font-size: large"><strong>Follow Us On</strong></h5>
+                        <a class="facebookBtn smGlobalBtn" href="https://www.facebook.com/cancerawareness18/"></a>
+                        <a class="instaBtn smGlobalBtn" href="https://www.instagram.com/awarenesscancer2018/"></a>
+                        <a class="googleplusBtn smGlobalBtn"
+                           href="https://plus.google.com/u/2/116919027122646496972"></a>
+                        <style>
+                            .rate {
+                                border: none;
+                                background-color: dodgerblue;
+                                color: white;
+                                padding: 12px 30px;
+                                cursor: pointer;
+                                font-size: 20px;
+                            }
+
+                            .rate:hover {
+                                background-color: #2F4858;
+                                color: white;
+                            }
+
+                            .fas {
+                                -moz-osx-font-smoothing: grayscale;
+                                font-family: "Font Awesome 5 Free";
+                                -webkit-font-smoothing: antialiased;
+                                display: inline-block;
+                                font-style: normal;
+                                font-variant: normal;
+                                text-rendering: auto;
+                                line-height: 1
+                            }
+
+                            /*.rate:focus {*/
+                            /*border: none;*/
+                            /*background-color: inherit;*/
+                            /*padding: 14px 28px;*/
+                            /*font-size: 16px;*/
+                            /*cursor: pointer;*/
+                            /*!* display: inline-block; *!*/
+                            /*color: black;*/
+                            /*text-align: center;*/
+                            /*box-shadow: none;*/
+                            /*}*/
+                        </style>
+                        <br><br>
+                        <a href="https://goo.gl/forms/Ihlx9EEykMPR4Nt32" target="_blank">
+                            <button class="rate btnxx"><i class="fa fa-star"> <span
+                                    style="font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"><strong>Rate Us</strong></span></i>
+                            </button>
                         </a>
+                        <a href="https://drive.google.com/file/d/1cROOEUSyYiDPz8Gt_D0CgsQVXFReD9Tr/view"
+                           target="_blank">
+                            <button class="btnxx" style="padding-left: 11px; padding-right: 11px"><i
+                                    class="fa fa-android"></i> Download
+                            </button>
+                        </a>
+
                     </div>
                 </div>
+
+
+                <!-- END .footer-widgets -->
             </div>
 
-        </section>
-        <!-- end four box -->
-
-        <!-- youtube -->
-        <div class="youtube-wrapper">
-            <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
-                    class="youtube" frameborder="0" src="https://www.youtube.com/embed/A764IXV8C_E"></iframe>
+            <!-- END .row -->
         </div>
-        <!-- end youtube -->
-        <!-- youtube -->
-        <div class="youtube-wrapper">
-            <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
-                    class="youtube" frameborder="0" src="https://www.youtube.com/embed/KKaJhQBusH8"></iframe>
+
+
+        <!-- BEGIN .row -->
+        <div class="row">
+            <div class="footer-information">
+
+                <div class="align-left">
+
+                    <p>Copyright &copy; UM Cancer Awareness 2018 &middot; All Rights Reserved &middot;</p>
+
+                    <p>An Initiative by Students of <a href="https://www.um.edu.my" target="_blank">University
+                        of
+                        Malaya</a>
+                        <!-- RSS Feed</a> &middot; <a href="./wp-login.php">Log in</a></p> -->
+
+                </div>
+
+
+                <!-- END .footer-information -->
+            </div>
+
+            <!-- END .row -->
         </div>
-        <!-- end youtube -->
 
-        <!-- threebox -->
-        <div class="card1-wrapper">
-            <div class="card1 card1--big">
-                <div class="card1__image" id="home1"></div>
-                <h2 class="card1__title">About Cancer</h2><span class="card1__subtitle">By Mattia Astorino</span>
-                <p class="card1__text">Know more about cancer and how to deal with it</p>
-                <div class="card1__action-bar">
-                    <a class="card1__button" href="aboutCancer/aboutCancer1.html" style="margin:0">LEARN MORE</a>
-                </div>
-            </div>
-
-            <div class="card1 card1--big">
-                <div class="card1__image" id="home2"></div>
-                <h2 class="card1__title">About Us</h2><span class="card1__subtitle">By Mattia Astorino</span>
-                <p class="card1__text">Get to know our team members</p>
-                <div class="card1__action-bar">
-                    <a class="card1__button" href="aboutUs/aboutUs.html" style="margin:0">LEARN MORE</a>
-                </div>
-            </div>
-
-            <div class="card1 card1--big">
-                <div class="card1__image" id="home3"></div>
-                <h2 class="card1__title">Contact</h2><span class="card1__subtitle">By Mattia Astorino</span>
-                <p class="card1__text">Find contacts for various local or international organzations and counsellor</p>
-                <div class="card1__action-bar">
-                    <a class="card1__button" href="contact/contact.html" style="margin:0">LEARN MORE</a>
-                </div>
-            </div>
-        </div>
-        <!-- threebox -->
-
-        <!-- END .container -->
+        <!-- END .content -->
     </div>
 
-    <!-- BEGIN .footer -->
-    <style>.btnxx {
-        background-color: #17ed0b;
-        border: none;
-        color: white;
-        padding: 12px 30px;
-        cursor: pointer;
-        font-size: 20px;
-        font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-        font-weight: 700;
-        line-height: 2;
-        letter-spacing: 1px;
-        text-transform: uppercase;
-        margin: 12px;
-        /*font-family: "Arial";*/
-    }
-
-
-    /* Darker background on mouse-over */
-    .btn:hover {
-        background-color: RoyalBlue;
-    }</style>
-    <div class="footer">
-
-        <!-- BEGIN .content -->
-        <div class="content no-bg">
-
-
-            <!-- BEGIN .row -->
-            <div class="row">
-
-                <!-- BEGIN .footer-widgets -->
-                <div class="footer-widgets widget-count-3 per-row-3">
-
-                    <div class="widget widget_text" id="text-3">
-                        <div class="footer-widget">
-                            <h6 class="widget-title">Find Us</h6>
-                            <div class="textwidget">
-                                <p><strong>Address</strong><br/>
-                                    Faculty of Computer Science and Information Technology<br/>
-                                    University of Malaya, 50603 Kuala Lumpur,</br> Federal Territory of Kuala Lumpur</p>
-
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="widget widget_text" id="text-5">
-                        <div class="footer-widget">
-                            <h6 class="widget-title">About</h6>
-                            <div class="textwidget">
-                                <p>We are students from FSKTM dedicated to spread cancer awareness among communities
-                                    among University of Malaya.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--social widget -->
-                    <div class="widget widget_text">
-                        <div id="social">
-                            <h5 class="widget-title" style="font-size: large"><strong>Follow Us On</strong></h5>
-                            <a class="facebookBtn smGlobalBtn" href="https://www.facebook.com/cancerawareness18/"></a>
-                            <a class="instaBtn smGlobalBtn" href="https://www.instagram.com/awarenesscancer2018/"></a>
-                            <a class="googleplusBtn smGlobalBtn"
-                               href="https://plus.google.com/u/2/116919027122646496972"></a>
-                            <style>
-                                .rate {
-                                    border: none;
-                                    background-color: dodgerblue;
-                                    color: white;
-                                    padding: 12px 30px;
-                                    cursor: pointer;
-                                    font-size: 20px;
-                                }
-
-                                .rate:hover {
-                                    background-color: #2F4858;
-                                    color: white;
-                                }
-
-                                .fas {
-                                    -moz-osx-font-smoothing: grayscale;
-                                    font-family: "Font Awesome 5 Free";
-                                    -webkit-font-smoothing: antialiased;
-                                    display: inline-block;
-                                    font-style: normal;
-                                    font-variant: normal;
-                                    text-rendering: auto;
-                                    line-height: 1
-                                }
-
-                                /*.rate:focus {*/
-                                /*border: none;*/
-                                /*background-color: inherit;*/
-                                /*padding: 14px 28px;*/
-                                /*font-size: 16px;*/
-                                /*cursor: pointer;*/
-                                /*!* display: inline-block; *!*/
-                                /*color: black;*/
-                                /*text-align: center;*/
-                                /*box-shadow: none;*/
-                                /*}*/
-                            </style>
-                            <br><br>
-                            <a href="https://goo.gl/forms/Ihlx9EEykMPR4Nt32" target="_blank">
-                                <button class="rate btnxx"><i class="fa fa-star"> <span
-                                        style="font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"><strong>Rate Us</strong></span></i>
-                                </button>
-                            </a>
-                            <a href="https://drive.google.com/file/d/1cROOEUSyYiDPz8Gt_D0CgsQVXFReD9Tr/view"
-                               target="_blank">
-                                <button class="btnxx" style="padding-left: 11px; padding-right: 11px"><i
-                                        class="fa fa-android"></i> Download
-                                </button>
-                            </a>
-
-                        </div>
-                    </div>
-
-
-                    <!-- END .footer-widgets -->
-                </div>
-
-                <!-- END .row -->
-            </div>
-
-
-            <!-- BEGIN .row -->
-            <div class="row">
-                <div class="footer-information">
-
-                    <div class="align-left">
-
-                        <p>Copyright &copy; UM Cancer Awareness 2018 &middot; All Rights Reserved &middot;</p>
-
-                        <p>An Initiative by Students of <a href="https://www.um.edu.my" target="_blank">University
-                            of
-                            Malaya</a>
-                            <!-- RSS Feed</a> &middot; <a href="./wp-login.php">Log in</a></p> -->
-
-                    </div>
-
-
-                    <!-- END .footer-information -->
-                </div>
-
-                <!-- END .row -->
-            </div>
-
-            <!-- END .content -->
-        </div>
-
-        <!-- END .footer -->
-    </div>
-
-
-    <!-- END #wrapper -->
+    <!-- END .footer -->
 </div>
 
 
+<!-- END #wrapper -->
+</div>
+
+<script src="slide.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src='./wp-content/themes/givingpress-lite/js/navigation.js?ver=20130729' type='text/javascript'></script>
