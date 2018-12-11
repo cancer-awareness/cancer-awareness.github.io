@@ -422,7 +422,11 @@ h6, .h6 {
 }
 
 @media only screen and (min-width: 600px) {
-    font-size: 3.5rem;
+    font-size:
+
+3.5rem
+
+;
 }
 
 hr {

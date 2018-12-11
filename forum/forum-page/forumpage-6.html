@@ -433,6 +433,27 @@
 </div>
 
 <!-- BEGIN .footer -->
+<style>.btn {
+    background-color: #17ed0b;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-weight: 700;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 12px;
+    /*font-family: "Arial";*/
+}
+
+
+/* Darker background on mouse-over */
+.btn:hover {
+    background-color: RoyalBlue;
+}</style>
 <div class="footer">
 
     <!-- BEGIN .content -->
@@ -443,9 +464,9 @@
         <div class="row">
 
             <!-- BEGIN .footer-widgets -->
-            <div class="footer-widgets widget-count-4 per-row-4">
+            <div class="footer-widgets widget-count-3 per-row-3">
 
-                <div class="widget widget_text" id="text-4">
+                <div class="widget widget_text" id="text-3">
                     <div class="footer-widget">
                         <h6 class="widget-title">Find Us</h6>
                         <div class="textwidget">
@@ -456,30 +477,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div id="meta-3" class="widget widget_meta">
-                    <div class="footer-widget">
-                        <h6 class="widget-title">Meta</h6>
-                        <ul>
-                            <li><a href="./feed/index.html">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
-                            <li><a href="./comments/feed/index.html">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div id="recent-posts-3" class="widget widget_recent_entries">
-                    <div class="footer-widget">
-                        <h6 class="widget-title">Recent Posts</h6>
-                        <ul>
-                            <li>
-                                <a href="./2018/09/19/welcome-to-the-gutenberg-editor/index.html">Welcome to
-                                    the
-                                    Gutenberg Editor</a>
-                            </li>
-                            <li>
-                                <a href="./2018/09/18/hello-world/index.html">Hello world!</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div> -->
+
                 <div class="widget widget_text" id="text-5">
                     <div class="footer-widget">
                         <h6 class="widget-title">About</h6>
@@ -490,74 +488,45 @@
                     </div>
                 </div>
 
-                <div class="widget widget_text" id="text-kosong">
-                    <div class="footer-widget">
-                        <h6 class="widget-title"></h6>
-                        <div class="textwidget">
-                            <p></p>
-                        </div>
-                    </div>
-                </div>
-
                 <!--social widget -->
-                <div id="social">
-                    <p></p>
-                    <h5>Follow Us On</h5>
-                    <a class="facebookBtn smGlobalBtn" href="https://www.facebook.com/cancerawareness18/"></a>
-                    <a class="instaBtn smGlobalBtn" href="https://www.instagram.com/awarenesscancer2018/"></a>
-                    <a class="googleplusBtn smGlobalBtn" href="awarenesscancer2018@gmail.com"></a>
-                    <style>
-                        .rate {
-                            border: none;
-                            /* background-color: inherit; */
-                            padding: 14px 28px;
-                            font-size: 16px;
-                            cursor: pointer;
-                            /* display: inline-block; */
-                            /* color: black; */
-                            text-align: center;
+                <div class="widget widget_text">
+                    <div id="social">
+                        <h5 class="widget-title" style="font-size: large"><strong>Follow Us On</strong></h5>
+                        <a class="facebookBtn smGlobalBtn" href="https://www.facebook.com/cancerawareness18/"></a>
+                        <a class="instaBtn smGlobalBtn" href="https://www.instagram.com/awarenesscancer2018/"></a>
+                        <a class="googleplusBtn smGlobalBtn" href="https://plus.google.com/u/2/116919027122646496972"></a>
+                        <style>
+                            .rate {
+                                border: none;
+                                background-color: dodgerblue;
+                                color: white;
+                                padding: 12px 30px;
+                                cursor: pointer;
+                                font-size: 20px;
+                            }
+                            .rate:hover {
+                                background-color: #2F4858;
+                                color: white;
+                            }
+                            .fas{-moz-osx-font-smoothing:grayscale;font-family:"Font Awesome 5 Free";-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}
 
-                            background-color: #2F4858;
-                            color: white;
-                        }
-                        .rate:hover {
-                            background-color: #2F4858;
-                            color: white;
-                        }
-                        .rate:focus {
-                            border: none;
-                            background-color: inherit;
-                            padding: 14px 28px;
-                            font-size: 16px;
-                            cursor: pointer;
-                            /* display: inline-block; */
-                            color: black;
-                            text-align: center;
-                            box-shadow: none;
-                        }
-                        .kosong {
-                            border: none;
-                            background: transparent;
-                            color: transparent;
-                        }
-                        .kosong:hover {
-                            border: none;
-                            background: transparent;
-                            color: transparent;
-                            box-shadow: none;
-                        }
-                    </style>
-                    <h5>
-                        <button class="kosong">
-                            Rate Us
-                        </button>
-                        <button class="kosong">
-                            Rate Us
-                        </button>
-                        <a href="https://goo.gl/forms/Ihlx9EEykMPR4Nt32" target="_blank">
-                            <button class="rate">Rate Us</button>
-                        </a>
-                    </h5>
+                            /*.rate:focus {*/
+                            /*border: none;*/
+                            /*background-color: inherit;*/
+                            /*padding: 14px 28px;*/
+                            /*font-size: 16px;*/
+                            /*cursor: pointer;*/
+                            /*!* display: inline-block; *!*/
+                            /*color: black;*/
+                            /*text-align: center;*/
+                            /*box-shadow: none;*/
+                            /*}*/
+                        </style>
+                        <br><br>
+                        <a href="https://goo.gl/forms/Ihlx9EEykMPR4Nt32" target="_blank"><button  class="rate btn"><i class="fa fa-star"> <span style="font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'"><strong>Rate Us</strong></span></i></button></a>
+                        <a href="https://drive.google.com/file/d/1cROOEUSyYiDPz8Gt_D0CgsQVXFReD9Tr/view" target="_blank"><button class="btn" style="padding-left: 11px; padding-right: 11px"><i class="fa fa-android"></i> Download</button></a>
+
+                    </div>
                 </div>
 
 
@@ -576,7 +545,7 @@
 
                 <div class="align-left">
 
-                    <p>Copyright &copy; 2018 &middot; All Rights Reserved &middot;</p>
+                    <p>Copyright &copy; UM Cancer Awareness 2018 &middot;  All Rights Reserved &middot;</p>
 
                     <p>An Initiative by Students of <a href="https://www.um.edu.my" target="_blank">University
                         of
@@ -597,6 +566,7 @@
 
     <!-- END .footer -->
 </div>
+
 
 <!-- END #wrapper -->
 </div>
