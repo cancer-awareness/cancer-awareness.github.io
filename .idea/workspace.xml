@@ -3,27 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fb5708f6-3581-4c71-82f6-065748b9b221" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutCancer/aboutCancer1.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutCancer/aboutCancer1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutCancer/aboutCancer2.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutCancer/aboutCancer2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutUs/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutUs/aboutUs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/Capture1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/contact/Capture1.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/Capture2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/contact/Capture2.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/Capture3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/contact/Capture3.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum/forum-page/forumpage-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/forum/forum-page/forumpage-9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,170 +16,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-8.html">
+        <entry file="file://$PROJECT_DIR$/forum/forum-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="490" column="34" lean-forward="true" selection-start-line="490" selection-start-column="34" selection-end-line="490" selection-end-column="34" />
+            <state relative-caret-position="237">
+              <caret line="314" column="49" selection-start-line="314" selection-start-column="46" selection-end-line="314" selection-end-column="49" />
               <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#22070#22076#0" expanded="true" />
-                <element signature="e#22102#22110#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-9.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="507" column="6" selection-start-line="507" selection-start-column="6" selection-end-line="507" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#22364#22370#0" expanded="true" />
-                <element signature="e#22396#22404#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-10.html">
+        <entry file="file://$PROJECT_DIR$/forum/forum-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="529" column="6" selection-start-line="529" selection-start-column="6" selection-end-line="529" selection-end-column="6" />
+            <state relative-caret-position="324">
+              <caret line="461" column="17" lean-forward="true" selection-start-line="450" selection-start-column="4" selection-end-line="461" selection-end-column="17" />
               <folding>
                 <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#23590#23596#0" expanded="true" />
-                <element signature="e#23622#23630#0" expanded="true" />
-                <element signature="e#23652#23660#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="513" column="6" selection-start-line="513" selection-start-column="6" selection-end-line="513" selection-end-column="6" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#22471#22477#0" expanded="true" />
-                <element signature="e#22503#22511#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="525" column="10" selection-start-line="525" selection-start-column="10" selection-end-line="525" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#23797#23803#0" expanded="true" />
-                <element signature="e#23829#23837#0" expanded="true" />
-                <element signature="e#23859#23867#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="531" column="6" selection-start-line="531" selection-start-column="6" selection-end-line="531" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#24462#24468#0" expanded="true" />
-                <element signature="e#24494#24502#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="508" column="7" selection-start-line="508" selection-start-column="7" selection-end-line="508" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#22264#22270#0" expanded="true" />
-                <element signature="e#22296#22304#0" expanded="true" />
-                <element signature="e#22326#22334#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-5.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="540" column="6" selection-start-line="540" selection-start-column="6" selection-end-line="540" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#24197#24205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-6.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="567" column="6" selection-start-line="567" selection-start-column="6" selection-end-line="567" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#26935#26941#0" expanded="true" />
-                <element signature="e#26967#26975#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-7.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="643" column="6" selection-start-line="643" selection-start-column="6" selection-end-line="643" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#29021#29027#0" expanded="true" />
-                <element signature="e#29053#29061#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -225,13 +63,14 @@
       <find>post</find>
       <find>display-4</find>
       <find>awesome</find>
-      <find>btn</find>
       <find>rate</find>
       <find>footer</find>
       <find>font-a</find>
       <find>font-awesom</find>
       <find>font-awesome</find>
       <find>font-awesomex</find>
+      <find>.btn</find>
+      <find>btn</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -251,7 +90,6 @@
         <option value="$PROJECT_DIR$/plugin/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/aboutCancer/aboutCancer2.html" />
         <option value="$PROJECT_DIR$/forum/forum-2.html" />
-        <option value="$PROJECT_DIR$/forum/forum-1.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/aboutCancer/aboutCancer1.html" />
         <option value="$PROJECT_DIR$/contact/contact.html" />
@@ -266,6 +104,7 @@
         <option value="$PROJECT_DIR$/forum/forum-page/forumpage-8.html" />
         <option value="$PROJECT_DIR$/forum/forum-page/forumpage-9.html" />
         <option value="$PROJECT_DIR$/forum/forum-page/forumpage-10.html" />
+        <option value="$PROJECT_DIR$/forum/forum-1.html" />
       </list>
     </option>
   </component>
@@ -352,14 +191,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\JOKER\Documents\GitHub\cancer-awareness.github.io\aboutUs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\JOKER\Documents\GitHub\cancer-awareness.github.io\contact" />
       <recent name="C:\Users\JOKER\Documents\GitHub\cancer-awareness.github.io\forum" />
       <recent name="C:\Users\JOKER\Documents\GitHub\cancer-awareness.github.io\forum\forum-page" />
       <recent name="C:\Users\JOKER\Documents\GitHub\cancer-awareness.github.io" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JOKER\Documents\GitHub\cancer-awareness.github.io\aboutUs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -401,7 +240,7 @@
       <workItem from="1543469149914" duration="16000" />
       <workItem from="1543469191930" duration="12000" />
       <workItem from="1544475788675" duration="3965000" />
-      <workItem from="1544521745482" duration="10604000" />
+      <workItem from="1544521745482" duration="11248000" />
     </task>
     <task id="LOCAL-00001" summary="flexbox">
       <created>1541612203556</created>
@@ -414,7 +253,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52223000" />
+    <option name="totallyTimeSpent" value="52867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="864" extended-state="0" />
@@ -638,32 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forum/forum-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="555" selection-start-line="555" selection-end-line="555" />
-          <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/forum/forum-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="449" lean-forward="true" selection-start-line="449" selection-end-line="581" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#27394#27402#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="658">
@@ -738,6 +551,51 @@
             <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#22471#22477#0" expanded="true" />
             <element signature="e#22503#22511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="490" column="34" lean-forward="true" selection-start-line="490" selection-start-column="34" selection-end-line="490" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#22070#22076#0" expanded="true" />
+            <element signature="e#22102#22110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="507" column="6" selection-start-line="507" selection-start-column="6" selection-end-line="507" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#22364#22370#0" expanded="true" />
+            <element signature="e#22396#22404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="531" column="21" lean-forward="true" selection-start-line="531" selection-start-column="21" selection-end-line="531" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#23590#23596#0" expanded="true" />
+            <element signature="e#23622#23630#0" expanded="true" />
+            <element signature="e#23652#23660#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -831,47 +689,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-8.html">
+    <entry file="file://$PROJECT_DIR$/forum/forum-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="490" column="34" lean-forward="true" selection-start-line="490" selection-start-column="34" selection-end-line="490" selection-end-column="34" />
+        <state relative-caret-position="237">
+          <caret line="314" column="49" selection-start-line="314" selection-start-column="46" selection-end-line="314" selection-end-column="49" />
           <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#22070#22076#0" expanded="true" />
-            <element signature="e#22102#22110#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-9.html">
+    <entry file="file://$PROJECT_DIR$/forum/forum-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="507" column="6" selection-start-line="507" selection-start-column="6" selection-end-line="507" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#22364#22370#0" expanded="true" />
-            <element signature="e#22396#22404#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/forum/forum-page/forumpage-10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="529" column="6" selection-start-line="529" selection-start-column="6" selection-end-line="529" selection-end-column="6" />
+        <state relative-caret-position="324">
+          <caret line="461" column="17" lean-forward="true" selection-start-line="450" selection-start-column="4" selection-end-line="461" selection-end-column="17" />
           <folding>
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#23590#23596#0" expanded="true" />
-            <element signature="e#23622#23630#0" expanded="true" />
-            <element signature="e#23652#23660#0" expanded="true" />
           </folding>
         </state>
       </provider>
