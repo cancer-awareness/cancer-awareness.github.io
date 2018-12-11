@@ -17,7 +17,7 @@
 
     <title>Forum &#8211; Cancer Awareness</title>
     <link href='//fonts.googleapis.com' rel='dns-prefetch'/>
-    <!--<link rel='dns-prefetch' href='//s.w.org'/>-->
+    <link href='//s.w.org' rel='dns-prefetch'/>
     <link href="./../feed/index.html" rel="alternate" title="Cancer Awareness &raquo; Feed" type="application/rss+xml"/>
     <link href="./../comments/feed/index.html" rel="alternate" title="Cancer Awareness &raquo; Comments Feed"
           type="application/rss+xml"/>
@@ -96,6 +96,10 @@
             background: none !important;
             padding: 0 !important;
         }
+
+        .card-body h6 {
+            color: #70a1ff;
+        }
     </style>
     <link href='./../wp-content/plugins/gutenberg/build/block-library/style.css?ver=1536915060'
           id='wp-block-library-css'
@@ -131,25 +135,23 @@
             padding: 0 !important;
             margin: 0 !important;
         }
-
-        .card-body h6 {
-            color: #70a1ff;
-        }
     </style>
 
     <!--File from 4321 -->
     <!-- Bootstrap core CSS -->
-    <!--<link href="./../vendor/bootstrap/css/bootstrap.css" rel="stylesheet">-->
+    <!-- <link href="./../vendor/bootstrap/css/bootstrap.css" rel="stylesheet"> -->
     <!-- Custom styles for this template -->
     <link href="./../css/blog-home.css" rel="stylesheet">
     <link href="./../css/agency.css" rel="stylesheet">
     <link href="./../vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link href="http://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css" rel="stylesheet">
     <link href="../css/page.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!-- sticky css -->
     <link href="../sticky.css" rel="stylesheet">
     <!-- btn css -->
     <link href="btn.css" rel="stylesheet">
+
     <!--social css-->
     <link href="../social.css" rel="stylesheet">
 
@@ -433,29 +435,28 @@
 
 
 <!-- BEGIN .footer -->
+<style>.btnxx {
+    background-color: #17ed0b;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-weight: 700;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 12px;
+    /*font-family: "Arial";*/
+}
+
+
+/* Darker background on mouse-over */
+.btn:hover {
+    background-color: RoyalBlue;
+}</style>
 <div class="footer">
-
-    <style>.btnxx {
-        background-color: #17ed0b;
-        border: none;
-        color: white;
-        padding: 12px 30px;
-        cursor: pointer;
-        font-size: 20px;
-        font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-        font-weight: 700;
-        line-height: 2;
-        letter-spacing: 1px;
-        text-transform: uppercase;
-        margin: 12px;
-        /*font-family: "Arial";*/
-    }
-
-
-    /* Darker background on mouse-over */
-    .btn:hover {
-        background-color: RoyalBlue;
-    }</style>
 
     <!-- BEGIN .content -->
     <div class="content no-bg">
@@ -471,8 +472,8 @@
                     <div class="footer-widget">
                         <h6 class="widget-title">Find Us</h6>
                         <div class="textwidget">
-                            <p><strong>Address</strong><br/>
-                                Faculty of Computer Science and Information Technology<br/>
+                            <p><strong>Address</strong><br />
+                                Faculty of Computer Science and Information Technology<br />
                                 University of Malaya, 50603 Kuala Lumpur,</br> Federal Territory of Kuala Lumpur</p>
 
                         </div>
@@ -495,8 +496,7 @@
                         <h5 class="widget-title" style="font-size: large"><strong>Follow Us On</strong></h5>
                         <a class="facebookBtn smGlobalBtn" href="https://www.facebook.com/cancerawareness18/"></a>
                         <a class="instaBtn smGlobalBtn" href="https://www.instagram.com/awarenesscancer2018/"></a>
-                        <a class="googleplusBtn smGlobalBtn"
-                           href="https://plus.google.com/u/2/116919027122646496972"></a>
+                        <a class="googleplusBtn smGlobalBtn" href="https://plus.google.com/u/2/116919027122646496972"></a>
                         <style>
                             .rate {
                                 border: none;
@@ -506,11 +506,11 @@
                                 cursor: pointer;
                                 font-size: 20px;
                             }
-
                             .rate:hover {
                                 background-color: #2F4858;
                                 color: white;
                             }
+                            .fas{-moz-osx-font-smoothing:grayscale;font-family:"Font Awesome 5 Free";-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}
 
                             /*.rate:focus {*/
                             /*border: none;*/
@@ -525,20 +525,13 @@
                             /*}*/
                         </style>
                         <br><br>
-                        <a href="https://goo.gl/forms/Ihlx9EEykMPR4Nt32" target="_blank">
-                            <button class="rate btnxx"><i class="fas fa-star"> <span
-                                    style="font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'">Rate Us</span></i>
-                            </button>
-                        </a>
-                        <a href="https://drive.google.com/file/d/1cROOEUSyYiDPz8Gt_D0CgsQVXFReD9Tr/view"
-                           target="_blank">
-                            <button class="btnxx" style="padding-left: 11px; padding-right: 11px"><i
-                                    class="fa fa-android"></i> Download
-                            </button>
-                        </a>
+                        <a href="https://goo.gl/forms/Ihlx9EEykMPR4Nt32" target="_blank"><button  class="rate btnxx"><i class="fas fa-star"> <span style="font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'">Rate Us</span></i></button></a>
+                        <a href="https://drive.google.com/file/d/1cROOEUSyYiDPz8Gt_D0CgsQVXFReD9Tr/view" target="_blank"><button class="btnxx" style="padding-left: 11px; padding-right: 11px"><i class="fa fa-android"></i> Download</button></a>
 
                     </div>
                 </div>
+
+
 
 
                 <!-- END .footer-widgets -->
@@ -554,7 +547,7 @@
 
                 <div class="align-left">
 
-                    <p>Copyright &copy; 2018 &middot; All Rights Reserved &middot;</p>
+                    <p>Copyright &copy; UM Cancer Awareness 2018 &middot;  All Rights Reserved &middot;</p>
 
                     <p>An Initiative by Students of <a href="https://www.um.edu.my" target="_blank">University
                         of
