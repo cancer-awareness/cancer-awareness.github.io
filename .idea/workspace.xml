@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb5708f6-3581-4c71-82f6-065748b9b221" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutCancer/aboutCancer.css" beforeDir="false" afterPath="$PROJECT_DIR$/aboutCancer/aboutCancer.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,10 +18,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forum/forum-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="314" column="49" selection-start-line="314" selection-start-column="46" selection-end-line="314" selection-end-column="49" />
+            <state relative-caret-position="658">
+              <caret line="457" column="13" selection-start-line="457" selection-start-column="13" selection-end-line="457" selection-end-column="13" />
               <folding>
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -31,10 +30,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aboutCancer/aboutCancer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forum/forum-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="461" column="17" lean-forward="true" selection-start-line="450" selection-start-column="4" selection-end-line="461" selection-end-column="17" />
+            <state relative-caret-position="-6">
+              <caret line="449" lean-forward="true" selection-start-line="449" selection-end-line="469" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -70,6 +78,7 @@
       <find>font-awesome</find>
       <find>font-awesomex</find>
       <find>.btn</find>
+      <find>btnxx</find>
       <find>btn</find>
     </findStrings>
   </component>
@@ -89,7 +98,6 @@
         <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/plugin/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/aboutCancer/aboutCancer2.html" />
-        <option value="$PROJECT_DIR$/forum/forum-2.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/aboutCancer/aboutCancer1.html" />
         <option value="$PROJECT_DIR$/contact/contact.html" />
@@ -105,6 +113,8 @@
         <option value="$PROJECT_DIR$/forum/forum-page/forumpage-9.html" />
         <option value="$PROJECT_DIR$/forum/forum-page/forumpage-10.html" />
         <option value="$PROJECT_DIR$/forum/forum-1.html" />
+        <option value="$PROJECT_DIR$/forum/forum-2.html" />
+        <option value="$PROJECT_DIR$/aboutCancer/aboutCancer.css" />
       </list>
     </option>
   </component>
@@ -240,7 +250,7 @@
       <workItem from="1543469149914" duration="16000" />
       <workItem from="1543469191930" duration="12000" />
       <workItem from="1544475788675" duration="3965000" />
-      <workItem from="1544521745482" duration="11248000" />
+      <workItem from="1544521745482" duration="11807000" />
     </task>
     <task id="LOCAL-00001" summary="flexbox">
       <created>1541612203556</created>
@@ -253,7 +263,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52867000" />
+    <option name="totallyTimeSpent" value="53426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="864" extended-state="0" />
@@ -358,13 +368,6 @@
     <entry file="file://$PROJECT_DIR$/forum/forum-page/sticky.css" />
     <entry file="file://$PROJECT_DIR$/forum/sticky.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutCancer/aboutCancer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="155" column="15" lean-forward="true" selection-start-line="155" selection-start-column="15" selection-end-line="155" selection-end-column="15" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact/myInfo.css">
       <provider selected="true" editor-type-id="text-editor" />
@@ -689,12 +692,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forum/forum-2.html">
+    <entry file="file://$PROJECT_DIR$/forum/forum-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="314" column="49" selection-start-line="314" selection-start-column="46" selection-end-line="314" selection-end-column="49" />
+        <state relative-caret-position="-6">
+          <caret line="449" lean-forward="true" selection-start-line="449" selection-end-line="469" selection-end-column="9" />
           <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -702,15 +704,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forum/forum-1.html">
+    <entry file="file://$PROJECT_DIR$/forum/forum-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="461" column="17" lean-forward="true" selection-start-line="450" selection-start-column="4" selection-end-line="461" selection-end-column="17" />
+        <state relative-caret-position="658">
+          <caret line="457" column="13" selection-start-line="457" selection-start-column="13" selection-end-line="457" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#i#0;n#button#0;n#a#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#4;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutCancer/aboutCancer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
         </state>
       </provider>
     </entry>
