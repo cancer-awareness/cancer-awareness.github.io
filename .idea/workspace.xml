@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb5708f6-3581-4c71-82f6-065748b9b221" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/givingpress-lite/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/givingpress-lite/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="fb5708f6-3581-4c71-82f6-065748b9b221" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -298,7 +296,7 @@
       <workItem from="1543469149914" duration="16000" />
       <workItem from="1543469191930" duration="12000" />
       <workItem from="1544475788675" duration="3965000" />
-      <workItem from="1544521745482" duration="15807000" />
+      <workItem from="1544521745482" duration="17305000" />
     </task>
     <task id="LOCAL-00001" summary="flexbox">
       <created>1541612203556</created>
@@ -311,7 +309,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57426000" />
+    <option name="totallyTimeSpent" value="58924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="864" extended-state="0" />
